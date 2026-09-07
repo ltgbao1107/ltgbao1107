@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**ltgbao1107/ltgbao1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm gbaoLT 👋
+**Student exploring machine learning, data, and the ideas behind them.**
+I'm interested in how models learn from data—and what happens when their assumptions break.
+### Learning interests
+- **Applied ML:** preprocessing, feature engineering, and model evaluation.
+- **Foundations:** understanding algorithms through small implementations.
+- **Experiments:** comparing simple baselines and investigating errors.
+### My approach
+Start with a clear question. Build a baseline. Test carefully. Explain the result.
+### Tools I work with
+`Python` · `NumPy` · `pandas` · `scikit-learn` · `C++`
